@@ -7,5 +7,4 @@ for (let i = 0; i < 10; i++) {
   let number = parseInt(userNumber);
   sum += number;
 }
-// Stampo la somma finale
 console.log(sum);
